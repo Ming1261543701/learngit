@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Testing no fast forward merge.
 Another file, changed by partner in dev
+Adding change to branch dev.
+conflict has been fixed.
